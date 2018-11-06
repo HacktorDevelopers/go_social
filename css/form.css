@@ -1,0 +1,16 @@
+input {
+	border: 1px solid grey;
+	border-radius: 3px;
+	padding: 5px;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+.form-group {
+	padding: 10px;
+	align-items: center;
+}
+
+input:focus {
+	outline: 0px;
+}

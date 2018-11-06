@@ -1,0 +1,42 @@
+NAME: LAMINA ABDULQUADRI OPEYEMI
+
+DEPARTMENT: ELECTRICAL AND ELECTRONICS ENGINEERING
+
+MATRIC NUMBER: 160403044
+
+COURSE: EEG 224(INTRODUCTION OF SWITCHING AND LOGIC CIRCUITS)
+
+TOPIC: IMPORTANCE OF DIGITAL AND SWITCHING SYSTEMS IN TODAY’S MODERN                 
+                 TECHNOLGY
+
+
+
+A Digital Switching System
+A switching system is called digital when the input to and output from the switching system can directly support digital signal. Many basic elements of the digital switching system and its operation are very similar to the stored program control (SPC) switching system.
+An electronic switching system (ESS) in telecommunications also called Digital Switching Systems is a telephone switch which helps in establishing phone calls with the help of computerized systems capable of interconnecting telephone circuits and digital electronics. The invention of the transistor helped in the development of electronic switching systems. The electronic switching system is capable of troubleshooting on its own and can identify problems. However, it needs well-trained resources to monitor and maintain the systems.
+  In this modern age Cell phones are most important to speak with each in everyone. Just as petrol necessary in the bike in the same way Cell phone necessary in the human life. The ability to keep in touch with family, business associates, and access to email are most important for the increasing of cell phones. Cell phones are the perfect way to stay connected with others and provide the user with a sense of security.
+First of all  foremost important  role that mobile phones(A product of Electronics Switching Systems)  play in our lives is that they provide us an easy and fast way of communication and connectivity. Through the mobile phone you can talk to 20 people in a day and at the same time not see a single person all day.  We all are know Cell phone (A product of Electronics Switching Systems) as become reliable and of high quality due to advances in wireless technology. Wireless service providers offer excellent packages and promotions for cell phone users. Mobile technology improved people’s lives in many different aspects and intercom services Firstly, it makes people become much closer with each ‘and every through mailing, texting, social networking apps, video or voice phone calling and any other social activities. It provides users various contact ways to satisfy different needs. We can choose the most comfortable and suitable way for themselves to contact friends and family and etc.
+The amount of use of mobile phones in modern society has grown to an enormous scale. They have been accepted into everyday life and have become a way of life, not only for instant communication but now days, mobiles are integrated into everyday life with email, photography, playing music and also a form of security for people. Mobile phones have changed global cultures, especially for the younger demographic as contact with friends is instant and easily accessible. This essay aims to explore the extreme acceptance and impact that mobile phones have to gain a better understanding of the effects on the world today whether positive or negative.
+ Other highly importances are:
+•	Internet Access & Social Media
+The Internet is one of the biggest blessings to man by technology provided by the digital switching system. One just cannot imagine the life without the Internet. Everyone likes/wants to stay connected with the Internet all the time. Thanks to the mobile phones that make it possible. The mobile phones let users enjoy the social media on the go. A major part of modern world is addicted to social networking sites. Mobile Phones let them be active in social media on the move.
+
+•	Mobile Phones save Money
+Yes, they do. Just buy mid-range or high-end mobile phone, and ultimately, you become proud owner of many gadgets, the gadgets that are packed in the mobile phone. For example, by buying mobile phone, you don’t need to spend money on a home phone, you don’t need to buy any music or video player, you don’t need to buy radio etc. If the mobile phone is high-end, then you need not to buy gaming console and maybe a computer as well.
+
+.
+The Functions of the digital switching network is to connect pairs of channels. So that information arriving at the switching centre in a particular channel on one PCM multiplex system can be passed to some other channel on an outgoing PCM multiplex systems. To achieve this switching, two processes referred to as time switching and space switching are used
+Various facilities of digital switching and transmission are the reason why the analog switching is slowly getting replaced by digital switching. The incorporation of digital switching and transmission technique into telecommunications altered the whole telecommunication industries setup. The reliability of digital switching system is becoming increasingly important for users of telephone services. Voice and/or data can be represented using digital signals efficiently than analog signals.
+Advantages of Electronics Switching Systems over Manual Switching Systems
+Provide alternative to analogue (Manual) Switching System: Replaces bulky, expensive switch panels and wire runs with smaller, more robust cabling and digital control modules, reducing installation cost and complexity.
+Systems are user customizable. Need your bilge pump to stay on a pre-determined time after pressing the on button or to shut o when the switch is released? No problem—USB ports allow the owner to load upgrades and configurations with a USB stick and the touch of a button—a virtual button, that is.
+Digital switching offers a number of advantages to the builder/installer: more effective modular system installation, flexibility in layout, easy system expandability, as well as cost and weight savings for reduced cabling runs and sizes. A reduction in conventional hard-wired switches means fewer holes to be drilled to install them, leading to cleaner/simpler helm consoles. Also, boat models which may have taken weeks to wire in the past can now be completed in days.
+Easier troubleshooting with system failure notification. Those fancy touch screen buttons are not just high-tech, virtual reality versions of electromechanical on/off switches. When you turn that anchor light on, the system knows the current draw and voltage level that should be passing through it and will alert you if something is amiss via icons on the display.
+Significantly increases system reliability by eliminating corrosion-prone mechanical switches and wire connections. A properly designed and installed digital switching system will provide much greater dependability (and flexibility) than a mechanical switching system ever could.
+
+
+
+
+References:	
+•	Google 
+•	Principle of Electronics Vk Mehta
